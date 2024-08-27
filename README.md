@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **some EDA projects.**
 
-- 🌱 I’m currently learning **SQL.**
+- 🌱 I’m currently learning **PostgreSQL.**
 
 - 👯 I’m looking to collaborate on ...
 
