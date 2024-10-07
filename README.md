@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=refiaozturk&label=Profile%20views&color=0e75b6&style=flat" alt="refiaozturk" /> </p>
 
-- 🔭 I’m currently working on **some EDA projects.**
+- 🔭 I’m currently working on **some EDA and Power BI projects.**
 
-- 🌱 I’m currently learning **PostgreSQL.**
+- 🌱 I’m currently learning **Tableau.**
 
 - 👯 I’m looking to collaborate on ...
 
