@@ -5,19 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=refiaozturk&label=Profile%20views&color=0e75b6&style=flat" alt="refiaozturk" /> </p>
 
-- 🔭 I’m currently working on **some EDA and Power BI projects.**
+- 🔭 I’m currently working on **some EDA, Power BI and Tableau projects.**
 
-- 🌱 I’m currently learning **Tableau.**
+- 🌱 I’m currently learning **Machine Learning.**
 
-- 👯 I’m looking to collaborate on ...
-
-- 🤝 I’m looking for help with ...
-
-- 👨‍💻 All of my projects are available at ...
+- 👨‍💻 All of my links and projects are available at **https://linktr.ee/refiaozturk**
 
 - 📫 How to reach me **ozturkrefia20@gmail.com**
-
-- 📄 Know about my experiences ...
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
