@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/9e/0a/c8/9e0ac82bc17ff00708da6bd09593177e.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Refia Ozturk.</h1>
 <h3 align="center">A passionate data analyst & data scientist from Turkiye.</h3>
-<img align="right" alt="Coding" width="400" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
+<img align="right" alt="Coding" width="300" src="https://stemettes.org/zine/wp-content/uploads/sites/3/2021/12/ai-gif.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=refiaozturk&label=Profile%20views&color=0e75b6&style=flat" alt="refiaozturk" /> </p>
 
