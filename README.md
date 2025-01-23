@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=refiaozturk&label=Profile%20views&color=0e75b6&style=flat" alt="refiaozturk" /> </p>
 
-- 🔭 I’m currently working on **some Machine Learning projects.**
+- 🔭 I’m currently working on **some Machine Learning and Deep Learning projects.**
 
-- 🌱 I’m currently learning **Machine Learning.**
+- 🌱 I’m currently learning **Deep Learning.**
 
 - 👨‍💻 All of my links and projects are available at **https://linktr.ee/refiaozturk**
 
