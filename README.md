@@ -9,9 +9,10 @@
 
 - 🌱 I’m currently learning **Deep Learning.**
 
-- 👨‍💻 All of my links and projects are available at **https://linktr.ee/refiaozturk**
+- 👨‍💻 All of my links and projects are available at **[My Projects👀](https://linktr.ee/refiaozturk)**
 
-- 📫 How to reach me **ozturkrefia20@gmail.com**
+- 📫 How to reach me:
+  * 📧 Email: [ozturkrefia20@gmail.com](mailto:ozturkrefia20@gmail.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +24,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=refiaozturk&show_icons=true&locale=en&layout=compact" alt="refiaozturk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=refiaozturk&show_icons=true&locale=en" alt="refiaozturk" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=refiaozturk&show_icons=true&theme=dark" alt="refiaozturk's GitHub stats" />
+</p>
