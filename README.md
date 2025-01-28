@@ -27,3 +27,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=refiaozturk&show_icons=true&theme=dark" alt="refiaozturk's GitHub stats" />
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=refiaozturk&" alt="refiaozturk" /></p>
