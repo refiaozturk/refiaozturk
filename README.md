@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=refiaozturk&label=Profile%20views&color=0e75b6&style=flat" alt="refiaozturk" /> </p>
 
-- 🔭 I’m currently working on **some Deep Learning projects such as CNN and Computer Vision.**
+- 🔭 I’m currently working on **some Deep Learning projects.**
 
 - 🌱 I’m currently learning **Deep Learning.**
 
